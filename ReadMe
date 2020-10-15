@@ -1,0 +1,3 @@
+・/home/pi/openFrameworks/apps/myApps/200928_omxResceive/bin/data/address.txtの
+アドレスは送信側のPCのIPアドレスと一緒にすること。
+・映像を送信する側のPCのファイヤウォールはオフにすること。
