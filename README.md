@@ -1,1 +1,1 @@
-# epomeOMXResceiver
+# epomeHLSResceiver
